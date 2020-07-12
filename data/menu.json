@@ -1,0 +1,20 @@
+{
+  "appName": "Components",
+  "routes": [
+    {
+      "name": "/alert",
+      "icon": "add_alert",
+      "text": "Alerts"
+    },
+    {
+      "name": "/avatar",
+      "icon": "accessibility",
+      "text": "Avatars"
+    },
+    {
+      "name": "/card",
+      "icon": "folder_open",
+      "text": "Cards"
+    }
+  ]
+}
